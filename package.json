@@ -1,14 +1,22 @@
 {
   "name": "5.7.5-activity",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an activity for FSWD Lesson 5.7.5- 3rd Party Libraries & ChartJS.",
   "main": "index.js",
   "scripts": {
     "start": "live-server ./public"
   },
   "author": "",
-  "license": "",
-  "dependencies": {
-    "live-server": "^1.2.1"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grahambone37/Stock-Charts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Grahambone37/Stock-Charts/issues"
+  },
+  "homepage": "https://github.com/Grahambone37/Stock-Charts#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
   }
 }
