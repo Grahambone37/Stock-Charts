@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Grahambone37/Stock-Charts#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "chart.js": "^4.0.1"
   }
 }
